@@ -1,2 +1,2 @@
 # CPHBusiness2
-Exercises &amp; assignments - Sebastian Lorenzen - cph-sl443@CPHBusiness.dk
+Exercises &amp; assignments - Sebastian - cph-sl443@CPHBusiness.dk
