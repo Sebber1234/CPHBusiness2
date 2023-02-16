@@ -6,8 +6,8 @@ class Datamatik {
 }
 void setup() {
   Teacher Teach = new Teacher("Signe", 48, true);
-  Student Me = new Student("Sebastian", 20, false, new Datamatik("D"));
-  Student Friend = new Student("Marcus", -1, false, new Datamatik("D"));
+  Student Me = new Student("Sebastian", 20, false, new Datamatik("G"));
+  Student Friend = new Student("Marcus", -1, false, new Datamatik("G"));
 
   println(Teach.name);
   println(Me.name + " in group: " + Me.datamatikerTeam.name);
