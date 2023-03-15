@@ -45,7 +45,7 @@ void draw() {
     }
     
     // draw the circle and rectangles
-    fill(255, 0, 0);
+    fill(0, 255, 0);
     ellipse(circleX, circleY, circleSize, circleSize);
     fill(0, 0, 255);
     rect(rectX, rectY, rectSize, rectSize);
