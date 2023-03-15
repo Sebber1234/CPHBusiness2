@@ -51,13 +51,13 @@ void draw() {
     rect(rectX, rectY, rectSize, rectSize);
     
     // display the score
-    textSize(24);
+    textSize(25);
     textAlign(CENTER, CENTER);
     fill(0);
     text("Score: " + score, width/2, 50);
   } else {
     // display game over message
-    textSize(32);
+    textSize(40);
     textAlign(CENTER, CENTER);
     fill(255, 0, 0);
     text("GAME OVER", width/2, height/2);
